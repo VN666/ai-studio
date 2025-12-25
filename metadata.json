@@ -1,0 +1,8 @@
+{
+  "name": "督查系统 2.0 (Supervision System)",
+  "description": "A comprehensive mobile-first supervision and inspection management system featuring self-inspection, rectification tracking, data dashboards, and role-based access.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
